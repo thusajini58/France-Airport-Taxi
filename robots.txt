@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap location
-Sitemap: https://www.france-airport-taxi.com/sitemap.xml
+Sitemap: https://thusajini58.github.io/France-Airport-Taxi/
 
 # Optional: Block system files
 Disallow: /cgi-bin/
